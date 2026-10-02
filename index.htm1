@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Peak Solutions College AI Assistant</title>
+</head>
+<body>
+  <h1>Peak Solutions College AI Assistant</h1>
+  <p>Welcome! How can I help you?</p>
+
+  <input type="text" placeholder="Type your question...">
+  <button>Send</button>
+</body>
+</html>
